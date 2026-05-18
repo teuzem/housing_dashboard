@@ -5,14 +5,19 @@
 ```
 housing_eda/
 ├── Housing.csv              # Dataset source
-├── housing_eda.py           # Script d'analyse EDA complet (génère les figures)
-├── app.py                   # Application Streamlit
+├── housing_app.py           #  Application Streamlit
+├── EDA_Housing_Price_NGOUMTSOP.ipynb # Notebook Jupiter d'analyse EDA, statistique et visualisations
 ├── requirements.txt         # Dépendances Python
-└── figures/                 # Graphiques générés par housing_eda.py
-    ├── 01_price_distribution.png
-    ├── 02_univariate_numeric.png
+└── /outputs/figures/         # Graphiques générés par EDA_Housing_Price_NGOUMTSOP.ipynb
+    ├── price_distribution.png
+    ├── univariate_numeric.png
     ├── ...
-    └── stats_descriptives.csv
+    └── Distribution du prix des biens immobiliers.png
+└── /outputs/tables/         # Tables de resultats generes par EDA_Housing_Price_NGOUMTSOP.ipynb
+    ├── stats_descriptives.csv
+    ├── frequences_binaires.csv
+    ├── ...
+    └── synthese_EDA_Housing.csv
 ```
 ## Prerequis avant lancement
 ## Installer et activer un environnement virtuel python pour Streamlit
