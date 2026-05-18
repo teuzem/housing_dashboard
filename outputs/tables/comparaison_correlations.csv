@@ -1,0 +1,6 @@
+,Variable,Pearson r,Spearman ρ,Δ (Spearman-Pearson),Interprétation Pearson,Interprétation Spearman
+0,area,0.536,0.6029,0.0669,Forte (>0.5),Forte (>0.5)
+2,bathrooms,0.5175,0.4799,-0.0376,Forte (>0.5),Modérée (0.3–0.5)
+3,stories,0.4207,0.3629,-0.0578,Modérée (0.3–0.5),Modérée (0.3–0.5)
+4,parking,0.3844,0.3654,-0.019,Modérée (0.3–0.5),Modérée (0.3–0.5)
+1,bedrooms,0.3665,0.3905,0.024,Modérée (0.3–0.5),Modérée (0.3–0.5)

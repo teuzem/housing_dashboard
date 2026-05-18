@@ -1,0 +1,6 @@
+,Variable,N,Moyenne,Skewness,Kurtosis excess,Shapiro-Wilk W,Shapiro-Wilk p,Jarque-Bera stat,Jarque-Bera p,Anderson-Darling A,Seuil critique 5%,Normalité rejetée
+0,price,545,4766729.2477,1.2122,1.9601,0.92163,0.0,217.44,0.0,10.4453,0.751,Oui
+1,area,545,5150.5413,1.3212,2.7515,0.91129,0.0,325.11,0.0,10.7005,0.751,Oui
+2,price_M,545,4.7667,1.2122,1.9601,0.92163,0.0,217.44,0.0,10.4453,0.751,Oui
+3,log_price,545,15.307,0.1409,-0.1374,0.99617,0.211836,2.28,0.319188,0.5535,0.751,Non
+4,log_area,545,8.4665,0.1335,-0.2135,0.99296,0.011681,2.74,0.254681,1.695,0.751,Oui

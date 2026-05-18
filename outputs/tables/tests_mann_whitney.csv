@@ -1,0 +1,7 @@
+,Équipement,N (sans),N (avec),Prix moy. sans (M),Prix moy. avec (M),Diff. moy. (%),U statistique,p-value,Significatif 5%,Taille effet |r|,Interp. effet
+0,Route principale,77,468,3.399,4.992,46.86,7860.0,0.0,Oui,0.5638,Forte
+4,Climatisation,373,172,4.192,6.013,43.45,13864.0,0.0,Oui,0.5678,Forte
+5,Zone préférentielle,417,128,4.425,5.879,32.85,14050.0,0.0,Oui,0.4735,Modérée
+1,Chambre d'invités,448,97,4.545,5.793,27.47,11890.0,0.0,Oui,0.4528,Modérée
+3,Eau chaude,520,25,4.729,5.56,17.58,4966.0,0.046147,Oui,0.236,Faible
+2,Cave / sous-sol,354,191,4.51,5.243,16.25,24395.0,0.0,Oui,0.2784,Faible

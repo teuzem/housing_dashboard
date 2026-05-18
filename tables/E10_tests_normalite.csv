@@ -1,0 +1,3 @@
+,Variable,Skewness,Shapiro-Wilk p,Jarque-Bera p,Normalité rejetée
+0,price,1.2122,0.0,0.0,Oui
+1,area,1.3212,0.0,0.0,Oui

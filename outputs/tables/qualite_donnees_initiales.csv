@@ -1,0 +1,14 @@
+,Type,Non-null,Manquantes (nb),Manquantes (%),Valeurs uniques,Min,Max
+price,int64,545,0,0.0,219,1750000,13300000
+area,int64,545,0,0.0,284,1650,16200
+bedrooms,int64,545,0,0.0,6,1,6
+bathrooms,int64,545,0,0.0,4,1,4
+stories,int64,545,0,0.0,4,1,4
+mainroad,str,545,0,0.0,2,no,yes
+guestroom,str,545,0,0.0,2,no,yes
+basement,str,545,0,0.0,2,no,yes
+hotwaterheating,str,545,0,0.0,2,no,yes
+airconditioning,str,545,0,0.0,2,no,yes
+parking,int64,545,0,0.0,4,0,3
+prefarea,str,545,0,0.0,2,no,yes
+furnishingstatus,str,545,0,0.0,3,furnished,unfurnished

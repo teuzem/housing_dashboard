@@ -1,0 +1,6 @@
+Variable,Nb groupes,H statistique,p-value,Significatif 5%
+bedrooms,6,91.9983,0.0,Oui
+bathrooms,4,125.9483,0.0,Oui
+stories,4,98.9539,0.0,Oui
+parking,4,74.8404,0.0,Oui
+furnishingstatus,3,69.5829,0.0,Oui

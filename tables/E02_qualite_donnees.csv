@@ -1,0 +1,17 @@
+,Type,Non-null,Valeurs manquantes,Missing (%),Valeurs uniques,Min,Max
+price,int64,545,0,0.0,219,1750000,13300000
+area,int64,545,0,0.0,284,1650,16200
+bedrooms,int64,545,0,0.0,6,1,6
+bathrooms,int64,545,0,0.0,4,1,4
+stories,int64,545,0,0.0,4,1,4
+mainroad,int64,545,0,0.0,2,0,1
+guestroom,int64,545,0,0.0,2,0,1
+basement,int64,545,0,0.0,2,0,1
+hotwaterheating,int64,545,0,0.0,2,0,1
+airconditioning,int64,545,0,0.0,2,0,1
+parking,int64,545,0,0.0,4,0,3
+prefarea,int64,545,0,0.0,2,0,1
+furnishingstatus,str,545,0,0.0,3,furnished,unfurnished
+price_M,float64,545,0,0.0,219,1.75,13.3
+price_per_sqft,float64,545,0,0.0,506,270.39555006180467,2640.0
+price_segment,category,545,0,0.0,3,Bas,Élevé

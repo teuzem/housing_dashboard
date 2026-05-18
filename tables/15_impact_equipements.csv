@@ -1,0 +1,7 @@
+,Équipement,Code,Prix sans (M),Prix avec (M),Gain absolu (M),Écart (%),p-value,Significatif,Nb sans,Nb avec
+0,Route principale,mainroad,3.399,4.992,1.593,46.9,0.0,✅ Oui,77,468
+4,Climatisation,airconditioning,4.192,6.013,1.821,43.4,0.0,✅ Oui,373,172
+5,Zone préférentielle,prefarea,4.425,5.879,1.454,32.9,0.0,✅ Oui,417,128
+1,Chambre d'invités,guestroom,4.545,5.793,1.248,27.5,0.0,✅ Oui,448,97
+3,Eau chaude,hotwaterheating,4.729,5.56,0.831,17.6,0.0461,✅ Oui,520,25
+2,Cave / sous-sol,basement,4.51,5.243,0.733,16.2,0.0,✅ Oui,354,191

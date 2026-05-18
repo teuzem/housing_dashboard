@@ -1,0 +1,14 @@
+,Indicateur,Valeur
+0,N (observations),545
+1,Prix médian (M),4.34
+2,Prix moyen (M),4.767
+3,CV du prix (%),39.24
+4,Skewness du prix,1.2122
+5,Indice de Gini,0.2105
+6,Part top 10% en valeur,18.36
+7,Corrélation area-prix (Pearson),0.536
+8,Corrélation area-prix (Spearman),0.6029
+9,R² OLS multilinéaire,0.6732
+10,R² ajusté OLS,0.6665
+11,Équipement ↑ prix max (%),Route principale (+46.9%)
+12,Équipement ↑ prix min (%),Cave / sous-sol (+16.2%)

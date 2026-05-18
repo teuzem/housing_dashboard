@@ -1,0 +1,13 @@
+,Variable,Coefficient,Erreur std,t-stat,p-value,Significatif
+0,Constante,-283089.62,238801.96,-1.185,0.23636,Non
+1,area,248.17,24.54,10.115,0.0,Oui
+2,bedrooms,128480.31,73333.44,1.752,0.08035,Non
+3,bathrooms,1005901.38,104427.63,9.633,0.0,Oui
+4,stories,457132.96,64876.97,7.046,0.0,Oui
+5,parking,298515.5,58914.23,5.067,0.0,Oui
+6,mainroad,466518.48,143274.15,3.256,0.0012,Oui
+7,guestroom,317294.66,133096.21,2.384,0.01748,Oui
+8,basement,381967.28,111227.04,3.434,0.00064,Oui
+9,hotwaterheating,897861.7,225362.75,3.984,8e-05,Oui
+10,airconditioning,880302.48,109106.2,8.068,0.0,Oui
+11,prefarea,657718.51,116942.29,5.624,0.0,Oui
