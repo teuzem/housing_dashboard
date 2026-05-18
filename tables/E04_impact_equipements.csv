@@ -1,7 +1,0 @@
-,Équipement,Prix sans (M),Prix avec (M),Gain abs. (M),Écart (%),p-value,Significatif
-0,Route principale,3.399,4.992,1.593,46.9,0.0,Oui
-4,Climatisation,4.192,6.013,1.821,43.4,0.0,Oui
-5,Zone préférentielle,4.425,5.879,1.454,32.9,0.0,Oui
-1,Chambre d'invités,4.545,5.793,1.248,27.5,0.0,Oui
-3,Eau chaude,4.729,5.56,0.831,17.6,0.04615,Oui
-2,Cave / sous-sol,4.51,5.243,0.733,16.2,0.0,Oui
