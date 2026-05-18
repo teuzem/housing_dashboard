@@ -64,4 +64,4 @@ L'application sera accessible via une URL publique.
 
 ## Execution du notebook Jupiter de l'EDA et Visualisation
 
-# Ouvrir le fichier EDA_Housing_Price_NGOUMTSOP.ipynb et cliquer sur Run all si votre kernel est pret.
+### Ouvrir le fichier EDA_Housing_Price_NGOUMTSOP.ipynb et cliquer sur Run all si votre kernel est pret.
