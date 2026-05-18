@@ -35,7 +35,7 @@ source nom_venv/Scripts/activate
 pip install -r requirements.txt
 
 # 2. Lancer l'application
-streamlit run app.py
+streamlit run housing_app.py
 ```
 ## Déploiement sur Streamlit Cloud (gratuit)
 
