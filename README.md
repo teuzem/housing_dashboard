@@ -48,7 +48,7 @@ streamlit run housing_app.py
 3. Dans Streamlit Cloud :
    - Cliquer "New app"
    - Sélectionner votre dépôt GitHub
-   - Choisir le fichier `app.py` comme Main file
+   - Choisir le fichier `housing_app.py` comme Main file
    - Cliquer "Deploy"
 
 L'application sera accessible via une URL publique.
